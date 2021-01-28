@@ -1,0 +1,24 @@
+{
+  "engineName": "tamales",
+  "endpointBase": "https://01965627005f4cda8700c1d64daf3513.ent-search.europe-west1.gcp.cloud.es.io",
+  "searchKey": "search-kwkpab7592svgphbewxkayug",
+  "resultFields": [
+    "meta_description",
+    "additional_urls",
+    "body_content",
+    "domains",
+    "links",
+    "title",
+    "meta_keywords",
+    "url",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ],
+  "titleField": "title",
+  "urlField": "url"
+}
